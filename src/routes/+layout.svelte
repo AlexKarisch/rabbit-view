@@ -17,7 +17,7 @@
 		<option value="dark">dark</option>
 		<option value="cyberpunk">cyberpunk</option>
 		<option value="valentine">valentine</option>
-		<option value="halloween">halloweeen</option>
+		<option value="halloween">halloween</option>
 	</select>
 	{@render children?.()}
 </div>						
